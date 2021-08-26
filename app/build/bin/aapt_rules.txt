@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:23
+-keep class com.tyron.resolver.MainActivity { <init>(...); }
+
